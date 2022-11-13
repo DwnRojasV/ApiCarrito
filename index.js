@@ -14,8 +14,6 @@ const pathName = "/"
 
 
 
-
-
 app.listen(port,
     ()=>{
         console.log("Se subio la app carrito en el puerto" + port);
